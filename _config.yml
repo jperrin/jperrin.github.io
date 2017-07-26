@@ -3,7 +3,7 @@
 title: "Technical Transgressions &#38; Snark"
 subtitle: "Viewer discretion advised"
 
-description: > This is my little slice of the web.
+description: "This is my little slice of the web."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jperrin.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BitIntegrity
