@@ -1,0 +1,43 @@
+# Site settings
+
+title: "Technical Transgressions &#38; Snark"
+subtitle: "Viewer discretion advised"
+
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://jperrin.org" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: BitIntegrity
+github_username:  jperrin
+author: Jim Perrin
+
+# Build settings
+markdown: kramdown
+# theme: minima
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - "/vendor/"
+  - "README.md"
+  - "LICENSE.md"
+  - "*.gemspec"
+  - "jekyll.thor"
+
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
+
+
+
+
+# Google analytics
+# ga_tracking_id: "UA-XXXX-1"
+
+
