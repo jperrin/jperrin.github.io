@@ -38,6 +38,6 @@ keep_files:
 
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+google_analytics: "UA-53433014-1"
 
 
