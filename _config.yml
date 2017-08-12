@@ -37,4 +37,10 @@ keep_files:
 # Google analytics
 google_analytics: "UA-53433014-1"
 
-
+# SEO
+social:
+  name: Jim Perrin
+  links:
+    - https://twitter.com/BitIntegrity
+    - https://github.com/jperrin
+    - https://keybase.io/jperrin

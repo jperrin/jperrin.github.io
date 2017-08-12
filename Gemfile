@@ -21,6 +21,7 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
    gem "jekyll-sitemap", "~> 1.1"
    gem "jekyll-compose", "~> 0.5.0"
+   gem "jekyll-seo-tag"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
