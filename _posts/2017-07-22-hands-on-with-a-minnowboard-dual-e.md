@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Hands-on with a Minnowboard Dual-e
+categories:
+  - Hardware
 ---
 ![Connected Minnowboard Dual-e](/img/dual-e.jpg)I recently got my hands on one of the dual ethernet [Minnowboards](//minnowboard.org/) from [Adi Engineering](//www.adiengineering.com/). I've been on the hunt for a nice low power, small form factor development board for a while, but nearly everything available in my price range comes with a single network card.
 

@@ -1,6 +1,9 @@
 ---
-layout: post
 title: Keeping an eye on CentOS performance with Grafana
+categories:
+  - CentOS
+  - Monitoring
+  - Grafana
 ---
 
 I've spent a bit of time setting up [CentOS](https://www.centos.org) as a home

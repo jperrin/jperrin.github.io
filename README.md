@@ -17,6 +17,6 @@ Creating new entries:
 ```
 
 ## Theme info
-My theme is a modified version of  _Airspace_ Jekyll theme, which is itself a port of ThemeFisher's Airspace template. It is released under ThemeFisher's free license, which requires attribution.
-If you want to use this theme for yourself, I started from here -> [airspace-jekyll](https://github.com/luminousrubyist/airspace-jekyll/fork).
 
+This theme is based on the [Minimal
+Mistakes](https://mmistakes.github.io/minimal-mistakes/).

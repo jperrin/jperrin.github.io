@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "A Fresh Start"
-tags:
+categories:
  - blog
 ---
 

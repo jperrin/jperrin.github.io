@@ -18,9 +18,12 @@ gem "jekyll", "3.4.5"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-   gem "jekyll-feed", "~> 0.6"
+   gem "jekyll-feed", "~> 0.9.2"
    gem "jekyll-sitemap", "~> 1.1"
    gem "jekyll-compose", "~> 0.5.0"
+   gem "jekyll-gist", "~> 1.4"
+   gem "jekyll-paginate", "~> 1.1"
+   gem "jemoji", "~> 0.8"
    gem "jekyll-seo-tag"
 end
 
