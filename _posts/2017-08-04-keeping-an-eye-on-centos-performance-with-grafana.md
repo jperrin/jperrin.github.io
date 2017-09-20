@@ -5,6 +5,8 @@ categories:
   - Monitoring
   - Grafana
 excerpt_separator: "<!--more-->"
+header:
+  teaser: "/assets/images/grafana-screenshot.png"
 ---
 
 I've spent a bit of time setting up [CentOS](https://www.centos.org) as a home
