@@ -4,6 +4,7 @@ categories:
   - CentOS
   - Monitoring
   - Grafana
+excerpt_separator: "<!--more-->"
 ---
 
 I've spent a bit of time setting up [CentOS](https://www.centos.org) as a home
@@ -16,6 +17,8 @@ bit legacy these days. I'd prefer to use a newer tool with a more modern feel.
 This is what led me to [Grafana](https://www.cacti.net/). Below is a basic
 walkthrough for how I've set things up. This is a very basic install, that
 incorporates Collectd, influxdb, and Grafana all on the same host.
+
+<!--more-->
 
 ![Grafana Screenshot](/assets/images/grafana-screenshot.png){:style="float:
 none; align: center;"}
