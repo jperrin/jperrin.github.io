@@ -17,7 +17,7 @@ This is what led me to [Grafana](https://www.cacti.net/). Below is a basic
 walkthrough for how I've set things up. This is a very basic install, that
 incorporates Collectd, influxdb, and Grafana all on the same host.
 
-![Grafana Screenshot](/img/blog/grafana-screenshot.png){:style="float:
+![Grafana Screenshot](/assets/images/grafana-screenshot.png){:style="float:
 none; align: center;"}
 
 ## Collectd
@@ -217,7 +217,9 @@ admin_user = admin
 admin_password = admin
 ```
 
-![Collectd data source for grafana](/img/blog/grafana-collectd-datasource.png) Now you can start grafana with `systemctl start grafana-server`, and configure
+![Collectd data source for grafana](/assets/images/grafana-collectd-datasource.png)
+
+Now you can start grafana with `systemctl start grafana-server`, and configure
 it via the web interface. After you log in for the first time, you'll be
 prompted to configure a few things including a data source, and a dashboard.
 Since we're doing this all on the localhost, you'll be able to cheat and use
