@@ -22,7 +22,7 @@ twitter_username: BitIntegrity
 github_username: jperrin
 minimal_mistakes_skin: default
 search: true
-repository: jperrin/jperrin.github.io
+repository: "jperrin/jperrin.github.io"
 
 # Build settings
 markdown: kramdown
@@ -61,6 +61,7 @@ plugins:
 author:
   name   : "Jim Perrin"
   avatar : "/assets/images/bio-photo.jpg"
+  location: "Portland Oregon"
   bio    : >-
     Something something at Microsoft something.
     Formerly at Red Hat, and CentOS board member. <br />
