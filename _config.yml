@@ -20,6 +20,7 @@ description: >-
 
 twitter_username: BitIntegrity
 github_username: jperrin
+github: [metadata]
 minimal_mistakes_skin: default
 search: true
 repository: "jperrin/jperrin.github.io"
