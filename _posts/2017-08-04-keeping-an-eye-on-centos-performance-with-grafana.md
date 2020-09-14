@@ -3,7 +3,6 @@ title: Keeping an eye on CentOS performance with Grafana
 categories:
   - CentOS
   - Monitoring
-  - Grafana
 excerpt_separator: "<!--more-->"
 header:
   teaser: "/assets/images/grafana-screenshot.png"
